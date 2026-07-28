@@ -1,7 +1,7 @@
 function Home() {
   return (
     <div>
-      <h1>Bem-vindo ao Tabnews Clone!</h1>
+      <h1>Bem-vindo ao Tabnews Clone! 😎</h1>
       <p>
         Este é um projeto de implementação do Tabnews para treinar programação.
       </p>
