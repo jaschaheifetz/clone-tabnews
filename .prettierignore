@@ -1,1 +1,6 @@
+# A partir da versão 3.0.0 do prettier, ele usa o arquivo .gitignore para determinar quais arquivos devem ser ignorados. 
+# Portanto, o arquivo .prettierignore não é mais necessário e pode ser removido. Porém, se você ainda quiser manter o 
+# arquivo .prettierignore, você pode adicionar outros arquivos ou diretórios que deseja ignorar, além dos que já estão
+# no .gitignore.
+
 .next
